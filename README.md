@@ -9,7 +9,7 @@ In this study, you can calculate the current bollinger data of the trading pair 
 </br>
 3- You can call Bollinger data in your page as follows.
 </br>
-      response = bollinger_band.binance("BTCUSDT", "15m")
+      <p style="text-indent:20px;">response = bollinger_band.binance("BTCUSDT", "15m")</p>
       </br>
       print(response)
       </br>
