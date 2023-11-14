@@ -23,3 +23,4 @@ In this study, you can calculate the current bollinger data of the trading pair 
       </br>
 
 NOT: You can use example.py file for example.
+DONATE: 0x704FEb940e9B4bDd27603a4A068c833dCE75dE98
